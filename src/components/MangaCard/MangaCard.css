@@ -1,0 +1,26 @@
+.manga-card-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	border: 1px solid #ddd;
+}
+
+.manga-main-title {
+	text-align: center;
+	/* font-size: 1.7rem; */
+	/* min-height: 80px; */
+}
+
+.manga-cover {
+	margin-bottom: 20px;
+}
+
+.readme-button {
+	margin-bottom: 10px;
+	background-color: rgb(125, 125, 235);
+	color: white;
+	width: 82%;
+	font-weight: 600;
+	border: unset;
+}
